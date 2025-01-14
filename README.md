@@ -18,4 +18,4 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saadfahmi&theme=cobalt&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/saadfahmi/saadfahmi/blob/output/github-snake-dark.svg)
