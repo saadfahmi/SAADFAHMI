@@ -14,8 +14,6 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a></p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=saadfahmi&theme=cobalt&hide_border=true&include_all_commits=false&count_private=false)<br/>
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saadfahmi&theme=cobalt&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ![snake gif](https://github.com/saadfahmi/saadfahmi/blob/output/github-snake-dark.svg)
